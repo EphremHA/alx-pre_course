@@ -1,6 +1,2 @@
-#!/bin/bash
-<<<<<<< HEAD
-#echo "ALX School is so cool! conflict resolved"
-=======
-#echo "ALX school is so cool! conflict resolved"
->>>>>>> update_script
+#echo "ALX School is so cool!"
+
