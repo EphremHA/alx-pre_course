@@ -9,15 +9,15 @@ int main(void)
 {
 	int n = 48;
 
-	for (n > 47; n < 103; ++n)
-	{
+	do {
 		putchar(n);
 		if (n == 57)
 		{
 			n += 40;
 			putchar(n);
 		}
-	}
+		n += 1;
+	} while (n < 103);
 	putchar('\n');
 	return (0);
 }
