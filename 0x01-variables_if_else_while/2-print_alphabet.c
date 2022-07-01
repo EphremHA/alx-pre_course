@@ -10,7 +10,7 @@ int main(void)
 {
 	int a = 97;
 
-	for (a >= 97; a <= 122; ++a)
+	for (a > 96; a < 123; ++a)
 	{
 		putchar(a);
 	}
