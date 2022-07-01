@@ -9,7 +9,6 @@
 int main(void)
 {
 	int a = 97;
-	int z = 122;
 
 	for (a >= 97; a <= 122; ++a)
 	{
